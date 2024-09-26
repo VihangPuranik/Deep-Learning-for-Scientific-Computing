@@ -12,7 +12,8 @@ This is based on the course work of 401-4656-21L at ETH Zurich.
    This notebook demonstrates the development of Operators as they occur in PDEs and implements a deep learning way of using them. The deep-O nets are implemented that calculate these neural operators for evaluation.
 
 The following image shows the evaluation of Heat equation PDE as simulated with classical techniques on the left, and with using Physics Informed Neural Networks on the right.
-![Sample_output](https://raw.githubusercontent.com/VihangPuranik/Deep-Learning-for-Scientific-Computing/refs/heads/main/output.png)
+
+![output](https://github.com/user-attachments/assets/3437d8fd-8998-4290-bc1b-bbdf7935e777)
 
 The main inspiration comes from the works:
 - Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis. "[Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations](https://www.sciencedirect.com/science/article/pii/S0021999118307125)." Journal of Computational Physics 378 (2019): 686-707.
